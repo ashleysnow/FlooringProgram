@@ -1,0 +1,2 @@
+mode=0
+//0 = production, 1 = testing

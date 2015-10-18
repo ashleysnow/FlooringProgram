@@ -1,0 +1,7 @@
+note that save includes test mode check inside it to reduce code in menu switch.
+
+condensed check state but could not condense check production type since it changes multiple values  when you can only return 1.
+
+
+
+
